@@ -2,7 +2,7 @@
 This repository comprises data for "Functional Tests for Hate Speech Detection Models" (Röttger et al., 2020).
 - "test_suite_cases.csv" contains the full test suite (3,728 cases in 29 functional tests).
 - "test_suite_annotations.csv" provides detailed annotation outcomes for each case in the test suite.
-- The corresponding "all_" files cover all 3,901 cases that were initially generated, from which 173 were excluded from our test suite due to fewer than four out five annotators agreeing with our gold standard label.
+- The corresponding "all_" files cover all 3,901 cases that were initially generated, from which 173 were excluded from the test suite due to fewer than four out five annotators agreeing with our gold standard label.
 
 <br/>
 
@@ -21,7 +21,7 @@ The text of the test case.
 The gold standard label (hateful/non-hateful) of the test case. All test cases within a given functionality have the same gold standard label.
 
 **target_ident**
-Where applicable, the protected group targeted or referenced by the test case. We cover seven protected groups in our test suite: women, trans people, gay people, black people, disabled people, Muslims and immigrants.
+Where applicable, the protected group targeted or referenced by the test case. We cover seven protected groups in the test suite: women, trans people, gay people, black people, disabled people, Muslims and immigrants.
 
 **direction**
 For hateful cases, the binary secondary label indicating whether they are *directed* at an individual as part of a protected group or aimed at the group in *general*.
