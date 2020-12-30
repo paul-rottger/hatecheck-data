@@ -27,10 +27,10 @@ Where applicable, the protected group targeted or referenced by the test case. W
 For hateful cases, the binary secondary label indicating whether they are *directed* at an individual as part of a protected group or aimed at the group in *general*.
 
 **focus_words**
-For hateful cases, where applicable, the word or phrase on which the hatefulness hinges (e.g. "cut their throats").
+Where applicable, the key word or phrase in a given test case (e.g. "cut their throats").
 
 **focus_lemma**
-For hateful cases, where applicable, the corresponding lemma (e.g. "cut sb. throat").
+Where applicable, the corresponding lemma (e.g. "cut sb. throat").
 
 **ref_case_id**
 For hateful cases, where applicable, the ID of the simpler hateful case which was perturbed to generate them.
