@@ -1,5 +1,5 @@
 
-This repository comprises data for "HateCheck: Functional Tests for Hate Speech Detection Models" (Röttger et al., 2020).
+This repository comprises data for "HateCheck: Functional Tests for Hate Speech Detection Models".
 - "test_suite_cases.csv" contains the full test suite (3,728 cases in 29 functional tests).
 - "test_suite_annotations.csv" provides detailed annotation outcomes for each case in the test suite.
 - The corresponding "all_" files cover all 3,901 cases that were initially generated, from which 173 were excluded from the test suite due to fewer than four out five annotators agreeing with our gold standard label.
