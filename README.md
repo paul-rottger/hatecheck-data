@@ -2,6 +2,7 @@ In this repo, you can find the data from our ACL 2021 paper "HateCheck: Function
 - "test_suite_cases.csv" contains the full test suite (3,728 cases in 29 functional tests).
 - "test_suite_annotations.csv" provides detailed annotation outcomes for each case in the test suite.
 - The corresponding "all_" files cover all 3,901 cases that were initially generated, from which 173 were excluded from the test suite due to fewer than four out five annotators agreeing with our gold standard label.
+- "template_placeholders.csv" contains the tokens that the placeholders in the case templates are replaced with for generating the test cases.
 
 <br/>
 
