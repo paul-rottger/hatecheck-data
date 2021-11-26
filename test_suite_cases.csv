@@ -832,150 +832,150 @@
 830,threat_norm_h,838,Those disabled people should be burned at the stake. ,hateful,disabled people,directed,burned at the stake,burn sb. at the stake,,,120,Those [IDENTITY_P] should be burned at the stake.
 831,threat_norm_h,839,Those Muslims should be burned at the stake. ,hateful,Muslims,directed,burned at the stake,burn sb. at the stake,,,120,Those [IDENTITY_P] should be burned at the stake.
 832,threat_norm_h,840,Those immigrants should be burned at the stake. ,hateful,immigrants,directed,burned at the stake,burn sb. at the stake,,,120,Those [IDENTITY_P] should be burned at the stake.
-833,slur_h,841,That's only natural for a bitch like you. ,hateful,women,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-834,slur_h,842,That's only natural for a slut like you. ,hateful,women,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-835,slur_h,843,That's only natural for a whore like you. ,hateful,women,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-836,slur_h,844,That's only natural for a tranny like you. ,hateful,trans people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-837,slur_h,845,That's only natural for a shemale like you. ,hateful,trans people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-838,slur_h,846,That's only natural for a faggot like you. ,hateful,gay people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-839,slur_h,847,That's only natural for a fag like you. ,hateful,gay people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-840,slur_h,848,That's only natural for a queer like you. ,hateful,gay people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-841,slur_h,849,That's only natural for a nigger like you. ,hateful,black people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-842,slur_h,850,That's only natural for a coon like you. ,hateful,black people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-843,slur_h,851,That's only natural for a retard like you. ,hateful,disabled people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-844,slur_h,852,That's only natural for a cripple like you. ,hateful,disabled people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-845,slur_h,853,That's only natural for a mong like you. ,hateful,disabled people,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-846,slur_h,854,That's only natural for a muzzie like you. ,hateful,Muslims,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-847,slur_h,855,That's only natural for a Jihadi like you. ,hateful,Muslims,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-848,slur_h,856,That's only natural for a camel fucker like you. ,hateful,Muslims,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-849,slur_h,857,That's only natural for a wetback like you. ,hateful,immigrants,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-850,slur_h,858,That's only natural for a rapefugee like you. ,hateful,immigrants,directed,[SLUR],[SLUR],,,121,That's only natural for a [SLUR_S] like you.
-851,slur_h,859,You are just a bitch to me. ,hateful,women,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-852,slur_h,860,You are just a slut to me. ,hateful,women,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-853,slur_h,861,You are just a whore to me. ,hateful,women,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-854,slur_h,862,You are just a tranny to me. ,hateful,trans people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-855,slur_h,863,You are just a shemale to me. ,hateful,trans people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-856,slur_h,864,You are just a faggot to me. ,hateful,gay people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-857,slur_h,865,You are just a fag to me. ,hateful,gay people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-858,slur_h,866,You are just a queer to me. ,hateful,gay people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-859,slur_h,867,You are just a nigger to me. ,hateful,black people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-860,slur_h,868,You are just a coon to me. ,hateful,black people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-861,slur_h,869,You are just a retard to me. ,hateful,disabled people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-862,slur_h,870,You are just a cripple to me. ,hateful,disabled people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-863,slur_h,871,You are just a mong to me. ,hateful,disabled people,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-864,slur_h,872,You are just a muzzie to me. ,hateful,Muslims,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-865,slur_h,873,You are just a Jihadi to me. ,hateful,Muslims,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-866,slur_h,874,You are just a camel fucker to me. ,hateful,Muslims,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-867,slur_h,875,You are just a wetback to me. ,hateful,immigrants,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-868,slur_h,876,You are just a rapefugee to me. ,hateful,immigrants,directed,[SLUR],[SLUR],,,122,You are just a [SLUR_S] to me.
-869,slur_h,895,Just another common bitch. ,hateful,women,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-870,slur_h,896,Just another common slut. ,hateful,women,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-871,slur_h,897,Just another common whore. ,hateful,women,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-872,slur_h,898,Just another common tranny. ,hateful,trans people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-873,slur_h,899,Just another common shemale. ,hateful,trans people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-874,slur_h,900,Just another common faggot. ,hateful,gay people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-875,slur_h,901,Just another common fag. ,hateful,gay people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-876,slur_h,902,Just another common queer. ,hateful,gay people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-877,slur_h,903,Just another common nigger. ,hateful,black people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-878,slur_h,904,Just another common coon. ,hateful,black people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-879,slur_h,905,Just another common retard. ,hateful,disabled people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-880,slur_h,906,Just another common cripple. ,hateful,disabled people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-881,slur_h,907,Just another common mong. ,hateful,disabled people,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-882,slur_h,908,Just another common muzzie. ,hateful,Muslims,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-883,slur_h,909,Just another common Jihadi. ,hateful,Muslims,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-884,slur_h,910,Just another common camel fucker. ,hateful,Muslims,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-885,slur_h,911,Just another common wetback. ,hateful,immigrants,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-886,slur_h,912,Just another common rapefugee. ,hateful,immigrants,directed,[SLUR],[SLUR],,,124,Just another common [SLUR_S].
-887,slur_h,913,They are just a bunch of bitches. ,hateful,women,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-888,slur_h,914,They are just a bunch of sluts. ,hateful,women,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-889,slur_h,915,They are just a bunch of whores. ,hateful,women,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-890,slur_h,916,They are just a bunch of trannies. ,hateful,trans people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-891,slur_h,917,They are just a bunch of shemales. ,hateful,trans people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-892,slur_h,918,They are just a bunch of faggots. ,hateful,gay people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-893,slur_h,919,They are just a bunch of fags. ,hateful,gay people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-894,slur_h,920,They are just a bunch of queer. ,hateful,gay people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-895,slur_h,921,They are just a bunch of niggers. ,hateful,black people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-896,slur_h,922,They are just a bunch of coons. ,hateful,black people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-897,slur_h,923,They are just a bunch of retards. ,hateful,disabled people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-898,slur_h,924,They are just a bunch of cripples. ,hateful,disabled people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-899,slur_h,925,They are just a bunch of mongs. ,hateful,disabled people,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-900,slur_h,926,They are just a bunch of muzzies. ,hateful,Muslims,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-901,slur_h,927,They are just a bunch of Jihadis. ,hateful,Muslims,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-902,slur_h,928,They are just a bunch of camel fuckers. ,hateful,Muslims,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-903,slur_h,929,They are just a bunch of wetbacks. ,hateful,immigrants,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-904,slur_h,930,They are just a bunch of rapefugees. ,hateful,immigrants,directed,[SLUR],[SLUR],,,125,They are just a bunch of [SLUR_P].
-905,slur_h,931,You are nothing but a bitch. ,hateful,women,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-906,slur_h,932,You are nothing but a slut. ,hateful,women,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-907,slur_h,933,You are nothing but a whore. ,hateful,women,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-908,slur_h,934,You are nothing but a tranny. ,hateful,trans people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-909,slur_h,935,You are nothing but a shemale. ,hateful,trans people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-910,slur_h,936,You are nothing but a faggot. ,hateful,gay people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-911,slur_h,937,You are nothing but a fag. ,hateful,gay people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-912,slur_h,938,You are nothing but a queer. ,hateful,gay people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-913,slur_h,939,You are nothing but a nigger. ,hateful,black people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-914,slur_h,940,You are nothing but a coon. ,hateful,black people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-915,slur_h,941,You are nothing but a retard. ,hateful,disabled people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-916,slur_h,942,You are nothing but a cripple. ,hateful,disabled people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-917,slur_h,943,You are nothing but a mong. ,hateful,disabled people,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-918,slur_h,944,You are nothing but a muzzie. ,hateful,Muslims,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-919,slur_h,945,You are nothing but a Jihadi. ,hateful,Muslims,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-920,slur_h,946,You are nothing but a camel fucker. ,hateful,Muslims,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-921,slur_h,947,You are nothing but a wetback. ,hateful,immigrants,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-922,slur_h,948,You are nothing but a rapefugee. ,hateful,immigrants,directed,[SLUR],[SLUR],,,126,You are nothing but a [SLUR_S].
-923,slur_h,949,Typical bitch behaviour. ,hateful,women,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-924,slur_h,950,Typical slut behaviour. ,hateful,women,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-925,slur_h,951,Typical whore behaviour. ,hateful,women,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-926,slur_h,952,Typical tranny behaviour. ,hateful,trans people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-927,slur_h,953,Typical shemale behaviour. ,hateful,trans people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-928,slur_h,954,Typical faggot behaviour. ,hateful,gay people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-929,slur_h,955,Typical fag behaviour. ,hateful,gay people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-930,slur_h,956,Typical queer behaviour. ,hateful,gay people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-931,slur_h,957,Typical nigger behaviour. ,hateful,black people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-932,slur_h,958,Typical coon behaviour. ,hateful,black people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-933,slur_h,959,Typical retard behaviour. ,hateful,disabled people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-934,slur_h,960,Typical cripple behaviour. ,hateful,disabled people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-935,slur_h,961,Typical mong behaviour. ,hateful,disabled people,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-936,slur_h,962,Typical muzzie behaviour. ,hateful,Muslims,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-937,slur_h,963,Typical Jihadi behaviour. ,hateful,Muslims,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-938,slur_h,964,Typical camel fucker behaviour. ,hateful,Muslims,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-939,slur_h,965,Typical wetback behaviour. ,hateful,immigrants,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-940,slur_h,966,Typical rapefugee behaviour. ,hateful,immigrants,general,[SLUR],[SLUR],,,127,Typical [SLUR_S] behaviour.
-941,slur_h,985,Bitches just can't help themselves. ,hateful,women,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-942,slur_h,986,Sluts just can't help themselves. ,hateful,women,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-943,slur_h,987,Whores just can't help themselves. ,hateful,women,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-944,slur_h,988,Trannies just can't help themselves. ,hateful,trans people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-945,slur_h,989,Shemales just can't help themselves. ,hateful,trans people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-946,slur_h,990,Faggots just can't help themselves. ,hateful,gay people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-947,slur_h,991,Fags just can't help themselves. ,hateful,gay people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-948,slur_h,992,Queer just can't help themselves. ,hateful,gay people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-949,slur_h,993,Niggers just can't help themselves. ,hateful,black people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-950,slur_h,994,Coons just can't help themselves. ,hateful,black people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-951,slur_h,995,Retards just can't help themselves. ,hateful,disabled people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-952,slur_h,996,Cripples just can't help themselves. ,hateful,disabled people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-953,slur_h,997,Mongs just can't help themselves. ,hateful,disabled people,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-954,slur_h,998,Muzzies just can't help themselves. ,hateful,Muslims,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-955,slur_h,999,Jihadis just can't help themselves. ,hateful,Muslims,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-956,slur_h,1000,Camel fuckers just can't help themselves. ,hateful,Muslims,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-957,slur_h,1001,Wetbacks just can't help themselves. ,hateful,immigrants,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-958,slur_h,1002,Rapefugees just can't help themselves. ,hateful,immigrants,general,[SLUR],[SLUR],,,129,[SLUR_P] just can't help themselves.
-959,slur_h,1003,Too many bitches in this country. ,hateful,women,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-960,slur_h,1004,Too many sluts in this country. ,hateful,women,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-961,slur_h,1005,Too many whores in this country. ,hateful,women,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-962,slur_h,1006,Too many trannies in this country. ,hateful,trans people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-963,slur_h,1007,Too many shemales in this country. ,hateful,trans people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-964,slur_h,1008,Too many faggots in this country. ,hateful,gay people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-965,slur_h,1009,Too many fags in this country. ,hateful,gay people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-966,slur_h,1010,Too many queer in this country. ,hateful,gay people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-967,slur_h,1011,Too many niggers in this country. ,hateful,black people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-968,slur_h,1012,Too many coons in this country. ,hateful,black people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-969,slur_h,1013,Too many retards in this country. ,hateful,disabled people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-970,slur_h,1014,Too many cripples in this country. ,hateful,disabled people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-971,slur_h,1015,Too many mongs in this country. ,hateful,disabled people,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-972,slur_h,1016,Too many muzzies in this country. ,hateful,Muslims,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-973,slur_h,1017,Too many Jihadis in this country. ,hateful,Muslims,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-974,slur_h,1018,Too many camel fuckers in this country. ,hateful,Muslims,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-975,slur_h,1019,Too many wetbacks in this country. ,hateful,immigrants,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
-976,slur_h,1020,Too many rapefugees in this country. ,hateful,immigrants,general,[SLUR],[SLUR],,,130,Too many [SLUR_P] in this country.
+833,slur_h,841,That's only natural for a bitch like you. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+834,slur_h,842,That's only natural for a slut like you. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+835,slur_h,843,That's only natural for a whore like you. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+836,slur_h,844,That's only natural for a tranny like you. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+837,slur_h,845,That's only natural for a shemale like you. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+838,slur_h,846,That's only natural for a faggot like you. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+839,slur_h,847,That's only natural for a fag like you. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+840,slur_h,848,That's only natural for a queer like you. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+841,slur_h,849,That's only natural for a nigger like you. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+842,slur_h,850,That's only natural for a coon like you. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+843,slur_h,851,That's only natural for a retard like you. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+844,slur_h,852,That's only natural for a cripple like you. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+845,slur_h,853,That's only natural for a mong like you. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+846,slur_h,854,That's only natural for a muzzie like you. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+847,slur_h,855,That's only natural for a Jihadi like you. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+848,slur_h,856,That's only natural for a camel fucker like you. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+849,slur_h,857,That's only natural for a wetback like you. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+850,slur_h,858,That's only natural for a rapefugee like you. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,121,That's only natural for a [SLUR_S] like you.
+851,slur_h,859,You are just a bitch to me. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+852,slur_h,860,You are just a slut to me. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+853,slur_h,861,You are just a whore to me. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+854,slur_h,862,You are just a tranny to me. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+855,slur_h,863,You are just a shemale to me. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+856,slur_h,864,You are just a faggot to me. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+857,slur_h,865,You are just a fag to me. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+858,slur_h,866,You are just a queer to me. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+859,slur_h,867,You are just a nigger to me. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+860,slur_h,868,You are just a coon to me. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+861,slur_h,869,You are just a retard to me. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+862,slur_h,870,You are just a cripple to me. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+863,slur_h,871,You are just a mong to me. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+864,slur_h,872,You are just a muzzie to me. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+865,slur_h,873,You are just a Jihadi to me. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+866,slur_h,874,You are just a camel fucker to me. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+867,slur_h,875,You are just a wetback to me. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+868,slur_h,876,You are just a rapefugee to me. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,122,You are just a [SLUR_S] to me.
+869,slur_h,895,Just another common bitch. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+870,slur_h,896,Just another common slut. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+871,slur_h,897,Just another common whore. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+872,slur_h,898,Just another common tranny. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+873,slur_h,899,Just another common shemale. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+874,slur_h,900,Just another common faggot. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+875,slur_h,901,Just another common fag. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+876,slur_h,902,Just another common queer. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+877,slur_h,903,Just another common nigger. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+878,slur_h,904,Just another common coon. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+879,slur_h,905,Just another common retard. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+880,slur_h,906,Just another common cripple. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+881,slur_h,907,Just another common mong. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+882,slur_h,908,Just another common muzzie. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+883,slur_h,909,Just another common Jihadi. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+884,slur_h,910,Just another common camel fucker. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+885,slur_h,911,Just another common wetback. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+886,slur_h,912,Just another common rapefugee. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,124,Just another common [SLUR_S].
+887,slur_h,913,They are just a bunch of bitches. ,hateful,women,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+888,slur_h,914,They are just a bunch of sluts. ,hateful,women,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+889,slur_h,915,They are just a bunch of whores. ,hateful,women,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+890,slur_h,916,They are just a bunch of trannies. ,hateful,trans people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+891,slur_h,917,They are just a bunch of shemales. ,hateful,trans people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+892,slur_h,918,They are just a bunch of faggots. ,hateful,gay people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+893,slur_h,919,They are just a bunch of fags. ,hateful,gay people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+894,slur_h,920,They are just a bunch of queer. ,hateful,gay people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+895,slur_h,921,They are just a bunch of niggers. ,hateful,black people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+896,slur_h,922,They are just a bunch of coons. ,hateful,black people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+897,slur_h,923,They are just a bunch of retards. ,hateful,disabled people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+898,slur_h,924,They are just a bunch of cripples. ,hateful,disabled people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+899,slur_h,925,They are just a bunch of mongs. ,hateful,disabled people,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+900,slur_h,926,They are just a bunch of muzzies. ,hateful,Muslims,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+901,slur_h,927,They are just a bunch of Jihadis. ,hateful,Muslims,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+902,slur_h,928,They are just a bunch of camel fuckers. ,hateful,Muslims,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+903,slur_h,929,They are just a bunch of wetbacks. ,hateful,immigrants,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+904,slur_h,930,They are just a bunch of rapefugees. ,hateful,immigrants,directed,[SLUR_P],[SLUR_S],,,125,They are just a bunch of [SLUR_P].
+905,slur_h,931,You are nothing but a bitch. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+906,slur_h,932,You are nothing but a slut. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+907,slur_h,933,You are nothing but a whore. ,hateful,women,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+908,slur_h,934,You are nothing but a tranny. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+909,slur_h,935,You are nothing but a shemale. ,hateful,trans people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+910,slur_h,936,You are nothing but a faggot. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+911,slur_h,937,You are nothing but a fag. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+912,slur_h,938,You are nothing but a queer. ,hateful,gay people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+913,slur_h,939,You are nothing but a nigger. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+914,slur_h,940,You are nothing but a coon. ,hateful,black people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+915,slur_h,941,You are nothing but a retard. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+916,slur_h,942,You are nothing but a cripple. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+917,slur_h,943,You are nothing but a mong. ,hateful,disabled people,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+918,slur_h,944,You are nothing but a muzzie. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+919,slur_h,945,You are nothing but a Jihadi. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+920,slur_h,946,You are nothing but a camel fucker. ,hateful,Muslims,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+921,slur_h,947,You are nothing but a wetback. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+922,slur_h,948,You are nothing but a rapefugee. ,hateful,immigrants,directed,[SLUR_S],[SLUR_S],,,126,You are nothing but a [SLUR_S].
+923,slur_h,949,Typical bitch behaviour. ,hateful,women,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+924,slur_h,950,Typical slut behaviour. ,hateful,women,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+925,slur_h,951,Typical whore behaviour. ,hateful,women,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+926,slur_h,952,Typical tranny behaviour. ,hateful,trans people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+927,slur_h,953,Typical shemale behaviour. ,hateful,trans people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+928,slur_h,954,Typical faggot behaviour. ,hateful,gay people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+929,slur_h,955,Typical fag behaviour. ,hateful,gay people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+930,slur_h,956,Typical queer behaviour. ,hateful,gay people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+931,slur_h,957,Typical nigger behaviour. ,hateful,black people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+932,slur_h,958,Typical coon behaviour. ,hateful,black people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+933,slur_h,959,Typical retard behaviour. ,hateful,disabled people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+934,slur_h,960,Typical cripple behaviour. ,hateful,disabled people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+935,slur_h,961,Typical mong behaviour. ,hateful,disabled people,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+936,slur_h,962,Typical muzzie behaviour. ,hateful,Muslims,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+937,slur_h,963,Typical Jihadi behaviour. ,hateful,Muslims,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+938,slur_h,964,Typical camel fucker behaviour. ,hateful,Muslims,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+939,slur_h,965,Typical wetback behaviour. ,hateful,immigrants,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+940,slur_h,966,Typical rapefugee behaviour. ,hateful,immigrants,general,[SLUR_S],[SLUR_S],,,127,Typical [SLUR_S] behaviour.
+941,slur_h,985,Bitches just can't help themselves. ,hateful,women,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+942,slur_h,986,Sluts just can't help themselves. ,hateful,women,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+943,slur_h,987,Whores just can't help themselves. ,hateful,women,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+944,slur_h,988,Trannies just can't help themselves. ,hateful,trans people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+945,slur_h,989,Shemales just can't help themselves. ,hateful,trans people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+946,slur_h,990,Faggots just can't help themselves. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+947,slur_h,991,Fags just can't help themselves. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+948,slur_h,992,Queer just can't help themselves. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+949,slur_h,993,Niggers just can't help themselves. ,hateful,black people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+950,slur_h,994,Coons just can't help themselves. ,hateful,black people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+951,slur_h,995,Retards just can't help themselves. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+952,slur_h,996,Cripples just can't help themselves. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+953,slur_h,997,Mongs just can't help themselves. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+954,slur_h,998,Muzzies just can't help themselves. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+955,slur_h,999,Jihadis just can't help themselves. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+956,slur_h,1000,Camel fuckers just can't help themselves. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+957,slur_h,1001,Wetbacks just can't help themselves. ,hateful,immigrants,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+958,slur_h,1002,Rapefugees just can't help themselves. ,hateful,immigrants,general,[SLUR_P],[SLUR_S],,,129,[SLUR_P] just can't help themselves.
+959,slur_h,1003,Too many bitches in this country. ,hateful,women,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+960,slur_h,1004,Too many sluts in this country. ,hateful,women,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+961,slur_h,1005,Too many whores in this country. ,hateful,women,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+962,slur_h,1006,Too many trannies in this country. ,hateful,trans people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+963,slur_h,1007,Too many shemales in this country. ,hateful,trans people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+964,slur_h,1008,Too many faggots in this country. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+965,slur_h,1009,Too many fags in this country. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+966,slur_h,1010,Too many queer in this country. ,hateful,gay people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+967,slur_h,1011,Too many niggers in this country. ,hateful,black people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+968,slur_h,1012,Too many coons in this country. ,hateful,black people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+969,slur_h,1013,Too many retards in this country. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+970,slur_h,1014,Too many cripples in this country. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+971,slur_h,1015,Too many mongs in this country. ,hateful,disabled people,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+972,slur_h,1016,Too many muzzies in this country. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+973,slur_h,1017,Too many Jihadis in this country. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+974,slur_h,1018,Too many camel fuckers in this country. ,hateful,Muslims,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+975,slur_h,1019,Too many wetbacks in this country. ,hateful,immigrants,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
+976,slur_h,1020,Too many rapefugees in this country. ,hateful,immigrants,general,[SLUR_P],[SLUR_S],,,130,Too many [SLUR_P] in this country.
 977,slur_homonym_nh,1021,They are building a new dyke near the beach. ,non-hateful,gay people,-,dyke,dyke,,,131,They are building a new dyke near the beach.
 978,slur_homonym_nh,1022,We went for a walk on the dyke just by the water. ,non-hateful,gay people,-,dyke,dyke,,,132,We went for a walk on the dyke just by the water.
 979,slur_homonym_nh,1023,The council built two dykes to protect the town from flooding. ,non-hateful,gay people,-,dykes,dyke,,,133,The council built two dykes to protect the town from flooding.
@@ -2559,24 +2559,24 @@
 2557,counter_quote_nh,2657,"You must be seriously sad to write things like ""disabled people deserve to die"". ",non-hateful,disabled people,-,die,die,712,102,545,"You must be seriously sad to write things like ""[IDENTITY_P] deserve to die""."
 2558,counter_quote_nh,2658,"You must be seriously sad to write things like ""Muslims deserve to die"". ",non-hateful,Muslims,-,die,die,713,102,545,"You must be seriously sad to write things like ""[IDENTITY_P] deserve to die""."
 2559,counter_quote_nh,2659,"You must be seriously sad to write things like ""immigrants deserve to die"". ",non-hateful,immigrants,-,die,die,714,102,545,"You must be seriously sad to write things like ""[IDENTITY_P] deserve to die""."
-2560,counter_quote_nh,2660,"I have no respect for people who write things like ""too many bitches in this country"". ",non-hateful,women,-,[SLUR_S],[SLUR_S],1003,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2561,counter_quote_nh,2661,"I have no respect for people who write things like ""too many sluts in this country"". ",non-hateful,women,-,[SLUR_S],[SLUR_S],1004,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2562,counter_quote_nh,2662,"I have no respect for people who write things like ""too many whores in this country"". ",non-hateful,women,-,[SLUR_S],[SLUR_S],1005,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2563,counter_quote_nh,2663,"I have no respect for people who write things like ""too many trannies in this country"". ",non-hateful,trans people,-,[SLUR_S],[SLUR_S],1006,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2564,counter_quote_nh,2664,"I have no respect for people who write things like ""too many shemales in this country"". ",non-hateful,trans people,-,[SLUR_S],[SLUR_S],1007,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2565,counter_quote_nh,2665,"I have no respect for people who write things like ""too many faggots in this country"". ",non-hateful,gay people,-,[SLUR_S],[SLUR_S],1008,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2566,counter_quote_nh,2666,"I have no respect for people who write things like ""too many fags in this country"". ",non-hateful,gay people,-,[SLUR_S],[SLUR_S],1009,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2567,counter_quote_nh,2667,"I have no respect for people who write things like ""too many queer in this country"". ",non-hateful,gay people,-,[SLUR_S],[SLUR_S],1010,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2568,counter_quote_nh,2668,"I have no respect for people who write things like ""too many niggers in this country"". ",non-hateful,black people,-,[SLUR_S],[SLUR_S],1011,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2569,counter_quote_nh,2669,"I have no respect for people who write things like ""too many coons in this country"". ",non-hateful,black people,-,[SLUR_S],[SLUR_S],1012,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2570,counter_quote_nh,2670,"I have no respect for people who write things like ""too many retards in this country"". ",non-hateful,disabled people,-,[SLUR_S],[SLUR_S],1013,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2571,counter_quote_nh,2671,"I have no respect for people who write things like ""too many cripples in this country"". ",non-hateful,disabled people,-,[SLUR_S],[SLUR_S],1014,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2572,counter_quote_nh,2672,"I have no respect for people who write things like ""too many mongs in this country"". ",non-hateful,disabled people,-,[SLUR_S],[SLUR_S],1015,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2573,counter_quote_nh,2673,"I have no respect for people who write things like ""too many muzzies in this country"". ",non-hateful,Muslims,-,[SLUR_S],[SLUR_S],1016,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2574,counter_quote_nh,2674,"I have no respect for people who write things like ""too many Jihadis in this country"". ",non-hateful,Muslims,-,[SLUR_S],[SLUR_S],1017,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2575,counter_quote_nh,2675,"I have no respect for people who write things like ""too many camel fuckers in this country"". ",non-hateful,Muslims,-,[SLUR_S],[SLUR_S],1018,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2576,counter_quote_nh,2676,"I have no respect for people who write things like ""too many wetbacks in this country"". ",non-hateful,immigrants,-,[SLUR_S],[SLUR_S],1019,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
-2577,counter_quote_nh,2677,"I have no respect for people who write things like ""too many rapefugees in this country"". ",non-hateful,immigrants,-,[SLUR_S],[SLUR_S],1020,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2560,counter_quote_nh,2660,"I have no respect for people who write things like ""too many bitches in this country"". ",non-hateful,women,-,[SLUR_P],[SLUR_S],1003,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2561,counter_quote_nh,2661,"I have no respect for people who write things like ""too many sluts in this country"". ",non-hateful,women,-,[SLUR_P],[SLUR_S],1004,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2562,counter_quote_nh,2662,"I have no respect for people who write things like ""too many whores in this country"". ",non-hateful,women,-,[SLUR_P],[SLUR_S],1005,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2563,counter_quote_nh,2663,"I have no respect for people who write things like ""too many trannies in this country"". ",non-hateful,trans people,-,[SLUR_P],[SLUR_S],1006,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2564,counter_quote_nh,2664,"I have no respect for people who write things like ""too many shemales in this country"". ",non-hateful,trans people,-,[SLUR_P],[SLUR_S],1007,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2565,counter_quote_nh,2665,"I have no respect for people who write things like ""too many faggots in this country"". ",non-hateful,gay people,-,[SLUR_P],[SLUR_S],1008,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2566,counter_quote_nh,2666,"I have no respect for people who write things like ""too many fags in this country"". ",non-hateful,gay people,-,[SLUR_P],[SLUR_S],1009,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2567,counter_quote_nh,2667,"I have no respect for people who write things like ""too many queer in this country"". ",non-hateful,gay people,-,[SLUR_P],[SLUR_S],1010,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2568,counter_quote_nh,2668,"I have no respect for people who write things like ""too many niggers in this country"". ",non-hateful,black people,-,[SLUR_P],[SLUR_S],1011,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2569,counter_quote_nh,2669,"I have no respect for people who write things like ""too many coons in this country"". ",non-hateful,black people,-,[SLUR_P],[SLUR_S],1012,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2570,counter_quote_nh,2670,"I have no respect for people who write things like ""too many retards in this country"". ",non-hateful,disabled people,-,[SLUR_P],[SLUR_S],1013,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2571,counter_quote_nh,2671,"I have no respect for people who write things like ""too many cripples in this country"". ",non-hateful,disabled people,-,[SLUR_P],[SLUR_S],1014,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2572,counter_quote_nh,2672,"I have no respect for people who write things like ""too many mongs in this country"". ",non-hateful,disabled people,-,[SLUR_P],[SLUR_S],1015,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2573,counter_quote_nh,2673,"I have no respect for people who write things like ""too many muzzies in this country"". ",non-hateful,Muslims,-,[SLUR_P],[SLUR_S],1016,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2574,counter_quote_nh,2674,"I have no respect for people who write things like ""too many Jihadis in this country"". ",non-hateful,Muslims,-,[SLUR_P],[SLUR_S],1017,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2575,counter_quote_nh,2675,"I have no respect for people who write things like ""too many camel fuckers in this country"". ",non-hateful,Muslims,-,[SLUR_P],[SLUR_S],1018,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2576,counter_quote_nh,2676,"I have no respect for people who write things like ""too many wetbacks in this country"". ",non-hateful,immigrants,-,[SLUR_P],[SLUR_S],1019,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
+2577,counter_quote_nh,2677,"I have no respect for people who write things like ""too many rapefugees in this country"". ",non-hateful,immigrants,-,[SLUR_P],[SLUR_S],1020,130,546,"I have no respect for people who write things like ""too many [SLUR_P] in this country""."
 2578,counter_quote_nh,2678,"People who send me messages like ""You are just a bitch to me"" will get blocked. ",non-hateful,women,-,[SLUR_S],[SLUR_S],859,122,547,"People who send me messages like ""You are just a [SLUR_S] to me"" will get blocked."
 2579,counter_quote_nh,2679,"People who send me messages like ""You are just a slut to me"" will get blocked. ",non-hateful,women,-,[SLUR_S],[SLUR_S],860,122,547,"People who send me messages like ""You are just a [SLUR_S] to me"" will get blocked."
 2580,counter_quote_nh,2680,"People who send me messages like ""You are just a whore to me"" will get blocked. ",non-hateful,women,-,[SLUR_S],[SLUR_S],861,122,547,"People who send me messages like ""You are just a [SLUR_S] to me"" will get blocked."
